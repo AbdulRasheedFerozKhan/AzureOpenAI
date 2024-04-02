@@ -9,7 +9,7 @@ The Azure OpenAI Service includes an image-generation model named DALL-E. You ca
 
 In this exercise, you'll use a DALL-E version 3 model to generate images based on natural language prompts.
 
-This exercise will take approximately **25** minutes.
+This exercise will take approximately **30** minutes.
 
 ## Provision an Azure OpenAI resource
 
